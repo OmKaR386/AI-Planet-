@@ -125,13 +125,7 @@
 ### **Conclusion**
 The outlined use cases and solutions are tailored to Tejas Networks' strategic goals, emphasizing the integration of GenAI and ML to improve processes, enhance customer satisfaction, and boost operational efficiency. The feasibility assessment shows high potential for implementation, given the availability of datasets and pre-trained models.
 
-
-
-
-
-
-
-
+---
 
 
 
